@@ -1,0 +1,43 @@
+#mainHead {
+    color: rgb(9, 8, 8);
+    text-align: center;
+    background-color: rgb(233, 231, 228);
+}
+
+
+.formData {
+    background-color: rgb(244, 221, 226);
+    height: 100px;
+}
+
+/* .headE{
+    
+} */
+
+#name {
+    display: block;
+}
+
+.formShell {
+    background-color: rgb(221, 235, 244);
+    height: 100rm;
+}
+
+#form {
+    padding: 2em;
+}
+
+#submitReset {
+    display: flex;
+    align-items: center;
+}
+
+#submit {
+    margin-right: 5px;
+    color: blue;
+}
+
+#reset {
+    margin-left: 5px;
+    color: blue;
+}
